@@ -1,3 +1,6 @@
+# Replace the placeholders below before publishing — GitHub renders this as the
+# repository's "Cite this repository" entry. The title, author names, and url are
+# the values most likely to be wrong if left unedited.
 cff-version: 1.2.0
 message: "If you use this project, please cite it using the metadata below."
 title: "Project Name"

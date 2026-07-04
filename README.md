@@ -1,6 +1,6 @@
 # Project Name
 
-> One sentence describing what this project is and who it is for.
+> One sentence describing what this project is.
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](https://github.com/uwo-fast/.github/blob/main/CONTRIBUTING.md)
@@ -9,13 +9,13 @@
 [![Paper](https://img.shields.io/badge/Paper-unsubmitted-red.svg)](https://doi.org/)
 [![Appropedia](https://img.shields.io/badge/Appropedia-lit_review-lightblue.svg)](https://www.appropedia.org/Category:FAST_literature_reviews)
 
-<!-- Update the OSHWA, OSF, Paper, and Appropedia badge links to point at this project's
-     own records once they exist. -->
+<!-- Keep only the badges that apply. Point the OSHWA, OSF, Paper, and Appropedia
+     links at this project's own records, or remove the ones it doesn't have. -->
 
 ## Overview
 
-Describe the project in a paragraph or two: what problem it solves, how it works
-at a high level, and its current status.
+Describe the problem this solves, how it works at a high level, and its current
+status.
 
 ## Repository layout
 
@@ -30,8 +30,7 @@ requirement. Common ones across FAST projects:
 
 ## Getting started
 
-How to build, install, or run the project. Keep it concrete enough that someone
-can reproduce it from a clean checkout.
+How to build, install, or run the project from a clean checkout.
 
 ## Documentation
 
