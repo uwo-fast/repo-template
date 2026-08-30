@@ -12,8 +12,9 @@ authors:
 version: "0.1.0"
 # date-released: "YYYY-MM-DD"
 url: "https://github.com/uwo-fast/repo-name"
-# Only the software licence goes here: a list in CFF means "either licence, at your
-# option", which is not what a dual-track repository grants. The hardware licence is
-# stated in LICENSING.md.
+# Only the software licence goes here. A licence list in CFF means "either licence,
+# at your option", which is not what a repository licensed separately by component
+# grants; where there is a hardware licence, LICENSING.md states it. Delete these
+# three lines in a software-only repository.
 license: GPL-3.0-or-later
 # doi: "10.xxxx/xxxxx"

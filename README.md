@@ -49,19 +49,28 @@ repository** button on GitHub, or see [`CITATION.cff`](CITATION.cff).
 
 ## License
 
-Software, firmware, and parametric CAD source are licensed
-[GPL-3.0-or-later](LICENSES/GPL-3.0-or-later.txt). Hardware design files and the
-outputs generated from them are licensed
-[CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt). See [`LICENSING.md`](LICENSING.md)
-for what applies where, and the organization
+Copyright © YEAR Project Name and its contributors.
+
+This project is free software: you may redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later version.
+Hardware design files and the outputs generated from them are licensed instead
+under [CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt). See
+[`LICENSING.md`](LICENSING.md) for what applies where, and the organization
 [licensing policy](https://github.com/uwo-fast/.github/blob/main/LICENSING.md) for
 why.
 
-<!-- Pure-software repository? Delete LICENSES/ and LICENSING.md, remove the
-     hardware badge above, and reduce this section to:
-         Released under the [GPL-3.0-or-later](LICENSE) license.
-     The root LICENSE file and CITATION.cff stay as they are — the root LICENSE is
-     what GitHub reads, and CITATION.cff carries the software licence either way. -->
+<!-- Replace YEAR and the project name above; this is the repository's only
+     copyright notice, and the "or any later version" sentence is what actually
+     grants GPL-3.0-or-later rather than GPL-3.0-only.
+
+     Pure-software repository? Delete LICENSES/ and LICENSING.md, delete the three
+     comment lines above `license:` in CITATION.cff, restore the single licence
+     badge at the top of this file to
+         [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+     and cut this section down to the copyright line plus the sentence granting the
+     GPL. The root LICENSE file stays either way — it is what GitHub reads, and
+     nothing may be prepended to it or detection breaks. -->
 
 ## Contact
 
