@@ -2,7 +2,8 @@
 
 > One sentence describing what this project is.
 
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Software: GPL-3.0-or-later](https://img.shields.io/badge/Software-GPL--3.0--or--later-blue.svg)](LICENSES/GPL-3.0-or-later.txt)
+[![Hardware: CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware-CERN--OHL--S--2.0-orange.svg)](LICENSES/CERN-OHL-S-2.0.txt)
 [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](https://github.com/uwo-fast/.github/blob/main/CONTRIBUTING.md)
 [![OSHWA](https://img.shields.io/badge/OSHWA-not_certified-lightgrey.svg)](https://certification.oshwa.org/)
 [![OSF](https://img.shields.io/badge/OSF-project-blue.svg)](https://osf.io/)
@@ -48,7 +49,19 @@ repository** button on GitHub, or see [`CITATION.cff`](CITATION.cff).
 
 ## License
 
-Released under the [GPL-3.0](LICENSE) license.
+Software, firmware, and parametric CAD source are licensed
+[GPL-3.0-or-later](LICENSES/GPL-3.0-or-later.txt). Hardware design files and the
+outputs generated from them are licensed
+[CERN-OHL-S-2.0](LICENSES/CERN-OHL-S-2.0.txt). See [`LICENSING.md`](LICENSING.md)
+for what applies where, and the organization
+[licensing policy](https://github.com/uwo-fast/.github/blob/main/LICENSING.md) for
+why.
+
+<!-- Pure-software repository? Delete LICENSES/ and LICENSING.md, remove the
+     hardware badge above, and reduce this section to:
+         Released under the [GPL-3.0-or-later](LICENSE) license.
+     The root LICENSE file and CITATION.cff stay as they are — the root LICENSE is
+     what GitHub reads, and CITATION.cff carries the software licence either way. -->
 
 ## Contact
 
